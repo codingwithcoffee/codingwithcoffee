@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 As a manager of a highly technical team, I’m actively working on developing my skills within GitHub.
+- 🌱 I’m currently working through GitHub skills to set strong foundations. 
+
 <!--
 **codingwithcoffee/codingwithcoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
