@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 As a manager of a highly technical team, I’m actively working on developing my skills within GitHub.
-- 🌱 I’m currently working through GitHub skills to set strong foundations. 
+- 🔭 As a manager of a highly technical team, I’m building my GitHub skills to better support collaboration and development.
+- 🌱 I’m working through GitHub Skills to build a solid foundation and put learning into practice.
 
 <!--
 **codingwithcoffee/codingwithcoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
